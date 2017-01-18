@@ -17,3 +17,6 @@ Learning about algorithmic trading
 
 # Other
 - [A list from Quantiacs](http://www.quantiacs.com/Data/Quantiacs%20Reading%20List.pdf)
+
+# What people think
+- https://www.quora.com/What-are-good-beginning-algorithmic-trading-tutorials

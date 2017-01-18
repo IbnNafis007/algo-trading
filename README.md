@@ -8,7 +8,8 @@ Learning about algorithmic trading
   - CHAPTER 8 Conclusion: Can Independent Traders Succeed?
   - CHAPTER 6 Money and Risk Management
   - CHAPTER 7 Special Topics in Quantitative Trading
-  
+- [Intro To Algorithmic Trading With Heikin-Ashi] (https://quantiacs.com/Blog/Intro-to-Algorithmic-Trading-with-Heikin-Ashi.aspx)
+
 # Platform
 - Quantopian
 - Numerai
@@ -16,4 +17,3 @@ Learning about algorithmic trading
 
 # Other
 - [A list from Quantiacs](http://www.quantiacs.com/Data/Quantiacs%20Reading%20List.pdf)
-- TOREAD: [INTRO TO ALGORITHMIC TRADING WITH HEIKIN-ASHI] (https://quantiacs.com/Blog/Intro-to-Algorithmic-Trading-with-Heikin-Ashi.aspx)

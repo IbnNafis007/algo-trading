@@ -1,4 +1,4 @@
-# Chapter 9: Tradding for a living
+# Chapter 9: Trading for a living
 
 ## Becoming a **disciplined trader**
 - keep accurate **records**

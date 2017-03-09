@@ -24,4 +24,5 @@
 - Account equity
 - 2%
 - 6%
+
 Aim: rising curve

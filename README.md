@@ -2,7 +2,7 @@
 Learning about algorithmic trading
 
 # Learning Material
-- _Come Into My Trading Room: A Complete Guide to Trading, 2002, Alexander Elder_ 
+- [_Come Into My Trading Room: A Complete Guide to Trading, 2002, Alexander Elder_](https://github.com/ryubidragonfire/algo-trading/tree/master/come-into-my-trading-room) 
   - A good first book, to understand whether algorithmic trading is for you.
 - _Quantitative Trading: How to Build Your Own Algorithmic Business, 2009, Ernest P. Chan_
   - CHAPTER 8 Conclusion: Can Independent Traders Succeed?
